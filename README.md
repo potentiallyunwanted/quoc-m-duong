@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @quoc-m-duong
-- 👀 I’m interested in 3d printing, cyber security, Python, and Rust
+- 👀 I’m interested in 3d printing, cyber security, crypto currency, Python, and Rust
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me quoc.duong@potentiallyunwanted.com
